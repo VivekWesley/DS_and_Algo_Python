@@ -1,3 +1,8 @@
+# reverse given string
+
+# Sample output: 
+# string this reverse
+
 def reverse_sentence(sentence):
     words = sentence.split(" ")
 
